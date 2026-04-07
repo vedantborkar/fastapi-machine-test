@@ -7,8 +7,10 @@
 - Client Creation (Authorized)
 
 ## API Docs
-Run the server and open:
+Run the server locally and open:
 http://127.0.0.1:8000/docs
+
+(Note: This project runs locally. Please clone and run the server to access API docs.)
 
 ## Tech Stack
 - FastAPI
